@@ -1,0 +1,14 @@
+C:\Users\Renato Luiz\source\repos\Mocidade\Mocidade\Mocidade\obj\Debug\netstandard2.0\Mocidade.csprojAssemblyReference.cache
+C:\Users\Renato Luiz\source\repos\Mocidade\Mocidade\Mocidade\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Renato Luiz\source\repos\Mocidade\Mocidade\Mocidade\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Renato Luiz\source\repos\Mocidade\Mocidade\Mocidade\obj\Debug\netstandard2.0\TipoPagina\Master\Conteudo.xaml.g.cs
+C:\Users\Renato Luiz\source\repos\Mocidade\Mocidade\Mocidade\obj\Debug\netstandard2.0\TipoPagina\Master\Master.xaml.g.cs
+C:\Users\Renato Luiz\source\repos\Mocidade\Mocidade\Mocidade\obj\Debug\netstandard2.0\Mocidade.csproj.CoreCompileInputs.cache
+C:\Users\Renato Luiz\source\repos\Mocidade\Mocidade\Mocidade\obj\Debug\netstandard2.0\Mocidade.AssemblyInfoInputs.cache
+C:\Users\Renato Luiz\source\repos\Mocidade\Mocidade\Mocidade\obj\Debug\netstandard2.0\Mocidade.AssemblyInfo.cs
+C:\Users\Renato Luiz\source\repos\Mocidade\Mocidade\Mocidade\obj\Debug\netstandard2.0\Mocidade.dll
+C:\Users\Renato Luiz\source\repos\Mocidade\Mocidade\Mocidade\obj\Debug\netstandard2.0\Mocidade.pdb
+C:\Users\Renato Luiz\source\repos\Mocidade\Mocidade\Mocidade\bin\Debug\netstandard2.0\Mocidade.deps.json
+C:\Users\Renato Luiz\source\repos\Mocidade\Mocidade\Mocidade\bin\Debug\netstandard2.0\Mocidade.dll
+C:\Users\Renato Luiz\source\repos\Mocidade\Mocidade\Mocidade\bin\Debug\netstandard2.0\Mocidade.pdb
+C:\Users\Renato Luiz\source\repos\Mocidade\Mocidade\Mocidade\obj\Debug\netstandard2.0\XamlC.stamp

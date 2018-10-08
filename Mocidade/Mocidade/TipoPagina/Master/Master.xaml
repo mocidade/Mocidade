@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:master="clr-namespace:Mocidade.TipoPagina.Master"
+             x:Class="Mocidade.TipoPagina.Master.Master">
+    <MasterDetailPage.Master>
+        <!-- Menu-->
+        <ContentPage Title="Menu">
+            <StackLayout>
+                <Button Text="Musicas" BackgroundColor="Transparent" Clicked="MudaPagina1" />
+                <Button Text="Sla"/>
+            </StackLayout>
+            
+        </ContentPage>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+       <!-- Conteudo-->
+        <master:Conteudo/>
+        
+    </MasterDetailPage.Detail>
+    
+</MasterDetailPage>
